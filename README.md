@@ -7,13 +7,13 @@
 
 重邮 LaTeX Beamer 模板（CQUPT-Beamer-Template）【非官方】
 
-> 💡 本项目基于 [liu-qilong/college-beamer](https://github.com/liu-qilong/college-beamer) 进行二次开发。
+> 💡 本项目基于【<u>[liu-qilong/college-beamer](https://github.com/liu-qilong/college-beamer)</u>】进行二次开发。
 
 
 ## 📌 模板预览
 
 <p align="center">
-  <img src="assets/imgs/home.png" alt="Home" style="max-width: 60%; height: auto;">
+  <img src="assets/imgs/home.png" alt="Home" style="max-width: 50%; height: auto;">
 </p>
 
 
@@ -43,11 +43,11 @@
 
 ```text
 .
-├── main.tex           # 主入口文件（在此编写幻灯片内容）
-├── assets/            # 资源文件夹
-│   ├── imgs/          # 存放校徽、演示图片等
-│   └── cqupt.sty      # 核心样式文件（定义颜色、页眉页脚及宏包逻辑）
-└── README.md          # 项目说明文档
+├── main.tex           # ✍️ 主编辑文件（在此修改幻灯片内容）
+├── assets/            # 📦 资源目录
+│   ├── imgs/          # 存放校徽 (logo.png)、插图等
+│   └── cqupt.sty      # 🎨 核心样式 (定义颜色、页眉页脚及宏包配置)
+└── README.md          # 说明文档
 ```
 
 
@@ -62,6 +62,6 @@
 
 ## ⚖️ 许可证与致谢
 
-* 本项目采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 许可证进行分发。您可以自由共享、修改，但请保留原作者及本仓库的署名。
+* 本项目采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证进行分发。您可以自由共享、修改，但请保留原作者及本仓库的署名。
 
 * 致谢：核心代码修改自【<u>[liu-qilong/college-beamer](https://github.com/liu-qilong/college-beamer)</u>】。感谢原作者对社区的贡献。
